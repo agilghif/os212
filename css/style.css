@@ -1,0 +1,20 @@
+body {
+  background-color: #f0efea;
+}
+
+h1 {
+  color: #001d3d;
+  text-align: center;
+  font-family: sans-serif;
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+hr {
+  border-style: none;
+  border-top: dashed;
+  border-color: #ffd60a;
+  border-width: 5px;
+  height: 0px;
+  width: 30%;
+}
