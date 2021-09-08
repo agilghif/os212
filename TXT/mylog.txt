@@ -14,3 +14,4 @@ ZCZC W01 100 L02 ZOOM meetings related
 ZCZC W01  15 L10 Assignment #00
 ZCZC W01  20 L11 Assignment #01
 ZCZC W01  30 L32 YouTube: studying OS
+ZCZC W01  20 L12 Assignment #02
