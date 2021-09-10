@@ -1,6 +1,6 @@
 # Welcome to agilghif's OS212 github page!
 ---
-<h> test </h>
+<h1> test </h1>
 
 I'm **Muhammad Agil Ghifari** from OS C class
 
