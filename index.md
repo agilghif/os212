@@ -1,7 +1,3 @@
-# Welcome to agilghif's OS212 github page!
----
-<h1> test </h1>
-
-I'm **Muhammad Agil Ghifari** from OS C class
-
-Pranala ke github saya, dan pranala ke [log](TXT/mylog.txt) saya **:)**
+<div class = "page-head">
+    <h1>Welcome to my OS212 page</h1>
+</div>
