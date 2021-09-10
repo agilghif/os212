@@ -1,4 +1,6 @@
-# Selamat Datang di Laman Github Saya!
+# Welcome to agilghif's OS212 github page!
+---
 
-Nama saya **Muhammad Agil Ghifari** dari kelas C.
+I'm **Muhammad Agil Ghifari** from OS C class
+
 Pranala ke github saya, dan pranala ke [log](TXT/mylog.txt) saya **:)**
