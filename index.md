@@ -10,6 +10,8 @@
 <h3 style="color: #FFC300; text-align:center; font-weight: bold;"> Links You Might Be Interested With</h3>
 <p style="text-align:center;">Here are some links that might be important for this class:</p>
 
-1. [My Github](https://github.com/agilghif)
-2. [My Log](/TXT/mylog.txt)
-3. [OS Materials Links](/links.md)
+<table style="margin: 10px auto;">
+  <tr><td><a href="https://github.com/agilghif">My Github</a></td></tr>
+  <tr><td><a href="/TXT/mylog.txt">My Log</a></td></tr>
+  <tr><td><a href="/links.md">OS Materials Links</a></td></tr>
+</table>
