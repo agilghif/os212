@@ -19,3 +19,9 @@ Contains all of vi basic commands and how to use them
 
 5. [Regex](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)<br>
 How to create and read a regular expression (regex)
+
+6. [How to Format Disk Partitions in Linux](https://phoenixnap.com/kb/linux-format-disk)<br>
+Instructions about disk partitions formating with some aditional information about file system.
+
+7. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
+Tutorial and introduction regarding FUSE virtual filesystem.
