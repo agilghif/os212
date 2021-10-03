@@ -25,3 +25,12 @@ Instructions about disk partitions formating with some aditional information abo
 
 7. [(Article) Develop your own filesystem with FUSE](https://developer.ibm.com/articles/l-fuse/)<br>
 Tutorial and introduction regarding FUSE virtual filesystem.
+
+8. [Main Memory](http://www.compsci.hunter.cuny.edu/~sweiss/course_materials/csci340/slides/chapter09.pdf)<br>
+Introduction to main memory management in OS.
+
+9. [Memory Management](https://www2.latech.edu/~box/os/ch08.pdf)<br>
+Memory management in OS.
+
+10. [Main Memory(again)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)<br>
+Deepen understanding with Main Memory.
