@@ -34,3 +34,6 @@ Memory management in OS.
 
 10. [Main Memory(again)](https://www.cs.uic.edu/~jbell/CourseNotes/OperatingSystems/8_MainMemory.html)<br>
 Deepen understanding with Main Memory.
+
+11. [Memory Paging](https://wiki.osdev.org/Paging)<br>
+Explains the concept about virtual memory paging
