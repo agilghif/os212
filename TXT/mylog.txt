@@ -60,4 +60,6 @@ ZCZC W05   5 L15 Assignment #06
 ZCZC W05   4 L16 Assignment #07
 ZCZC W05  18 L11 Assignment #01
 ZCZC W05   4 L12 Assignment #02
-
+ZCZC W06 105 L09 Weekly Assignments
+ZCZC W06   5 L03 Github related
+ZCZC W06  10 L00 watching OS youtube video
