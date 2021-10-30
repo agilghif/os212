@@ -37,3 +37,6 @@ Deepen understanding with Main Memory.
 
 11. [Memory Paging](https://wiki.osdev.org/Paging)<br>
 Explains the concept about virtual memory paging
+
+12. [(Video) Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)<br>
+The video explains linux processes and show what can we do to the processes.
