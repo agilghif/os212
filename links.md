@@ -41,6 +41,9 @@ Explains the concept about virtual memory paging
 12. [(Video) Linux processes, init, fork/exec, ps, kill, fg, bg, jobs](https://www.youtube.com/watch?v=TJzltwv7jJs)<br>
 The video explains linux processes and show what can we do to the processes.
 
-13. [How Process Synchronization Works?](https://www.guru99.com/process-synchronization.html)
+13. [How Process Synchronization Works?](https://www.guru99.com/process-synchronization.html)<br>
 This article explains briefly all of emerging problems from syncronization and some solutions to it
+
+15. [Linux from Scratch CHapter 5: Compiling a Cross Toolchain](https://www.youtube.com/watch?v=6Mw4l0khpCU)<br>
+This video explains how to compile a cross toolchain for LFS in a really slow pace
 
