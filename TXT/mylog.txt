@@ -63,3 +63,10 @@ ZCZC W05   4 L12 Assignment #02
 ZCZC W06 105 L09 Weekly Assignments
 ZCZC W06   5 L03 Github related
 ZCZC W06  10 L00 watching OS youtube video
+ZCZC W07 120 L09 Weekly Assignments
+ZCZC W07   5 L03 Github related
+ZCZC W07 100 L01 ZOOM meetings related
+ZCZC W08 330 L09 Weekly Assignments
+ZCZC W08   5 L03 Github related
+ZCZC W08 60 L01 ZOOM meetings related
+
