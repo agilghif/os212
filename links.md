@@ -47,3 +47,5 @@ This article explains briefly all of emerging problems from syncronization and s
 15. [Linux from Scratch CHapter 5: Compiling a Cross Toolchain](https://www.youtube.com/watch?v=6Mw4l0khpCU)<br>
 This video explains how to compile a cross toolchain for LFS in a really slow pace
 
+16 [Linux From Scratch: Chapter 6 and 7](https://www.youtube.com/watch?v=yrWyl6Zypd4&list=PLyc5xVO2uDsAlIkKBIGauDQ6LejoQovyL&index=7)<br>
+This video explains with slow pace how to do LFS for chapter 6 and 7
