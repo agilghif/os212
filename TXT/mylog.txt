@@ -69,4 +69,6 @@ ZCZC W07 100 L01 ZOOM meetings related
 ZCZC W08 330 L09 Weekly Assignments
 ZCZC W08   5 L03 Github related
 ZCZC W08 60 L01 ZOOM meetings related
-
+ZCZC W09 279 L09 Weekly Assignments
+ZCZC W09   5 L03 Github related
+ZCZC W09 120 L01 ZOOM meetings relate
